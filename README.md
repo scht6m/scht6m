@@ -1,5 +1,3 @@
-![GitHub Stats](https://raw.githubusercontent.com/scht6m/github-stats/master/github_stats.svg)
-
 <div align="center">
 
 ![Terminal](https://raw.githubusercontent.com/scht6m/github-stats/master/github_stats.svg)
