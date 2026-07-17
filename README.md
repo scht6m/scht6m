@@ -19,7 +19,7 @@ IT student @ Telkom University · Cybersecurity enthusiast — pentest, forensic
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-scht6m-000000?style=for-the-badge&logo=tryhackme&logoColor=0FF5EC)](https://tryhackme.com/p/scht6m)
 
 ## > ./stats --live
-![Streak](https://streak-stats.demolab.com?user=scht6m&background=000000&ring=0FF5EC&fire=0FF5EC&currStreakLabel=0FF5EC&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=scht6m&show_icons=true&bg_color=000000&title_color=0FF5EC&icon_color=0FF5EC&text_color=ffffff&hide_border=true)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=scht6m&bg_color=000000&color=0FF5EC&line=0FF5EC&point=ffffff&hide_border=true)
 
