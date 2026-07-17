@@ -19,7 +19,7 @@ IT student @ Telkom University · Cybersecurity enthusiast — pentest, forensic
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-scht6m-000000?style=for-the-badge&logo=tryhackme&logoColor=0FF5EC)](https://tryhackme.com/p/scht6m)
 
 ## > ./stats --live
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=scht6m&bg_color=000000&color=0FF5EC&line=0FF5EC&point=ffffff&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/scht6m/scht6m/output/github-snake-dark.svg)
 
 ## > cat contact.txt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0FF5EC)](https://linkedin.com/in/andy-azhari-pane)
