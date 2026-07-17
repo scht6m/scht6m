@@ -1,16 +1,16 @@
 ![GitHub Stats](https://raw.githubusercontent.com/scht6m/github-stats/master/github_stats.svg)
 
-## 🛡️ whoami
+## > whoami
 IT student @ Telkom University · Cybersecurity enthusiast — pentest, forensics, SOC
 
-## 🧰 Arsenal
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+## > ls ./arsenal
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=0FF5EC)
+![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=0FF5EC)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=0FF5EC)
+![Burp](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=0FF5EC)
 
-## 🚩 Platforms
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-scht6m-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/scht6m)
+## > ls ./platforms
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-scht6m-000000?style=for-the-badge&logo=tryhackme&logoColor=0FF5EC)](https://tryhackme.com/p/scht6m)
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+## > cat contact.txt
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0FF5EC)](https://linkedin.com/in/andy-azhari-pane)
