@@ -1,5 +1,13 @@
 ![GitHub Stats](https://raw.githubusercontent.com/scht6m/github-stats/master/github_stats.svg)
 
+<div align="center">
+
+![Terminal](https://raw.githubusercontent.com/scht6m/github-stats/master/github_stats.svg)
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&color=0FF5EC&center=true&vCenter=true&lines=Penetration+Testing;Digital+Forensics;SOC+Analyst;Full-stack+%26+Mobile+Dev)
+
+</div>
+
 ## > whoami
 IT student @ Telkom University · Cybersecurity enthusiast — pentest, forensics, SOC
 
@@ -11,6 +19,11 @@ IT student @ Telkom University · Cybersecurity enthusiast — pentest, forensic
 
 ## > ls ./platforms
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-scht6m-000000?style=for-the-badge&logo=tryhackme&logoColor=0FF5EC)](https://tryhackme.com/p/scht6m)
+
+## > ./stats --live
+![Streak](https://streak-stats.demolab.com?user=scht6m&background=000000&ring=0FF5EC&fire=0FF5EC&currStreakLabel=0FF5EC&hide_border=true)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=scht6m&bg_color=000000&color=0FF5EC&line=0FF5EC&point=ffffff&hide_border=true)
 
 ## > cat contact.txt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0FF5EC)](https://linkedin.com/in/andy-azhari-pane)
