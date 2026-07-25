@@ -2,7 +2,6 @@
 
 ![Terminal](https://raw.githubusercontent.com/scht6m/github-stats/master/github_stats.svg)
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&color=0FF5EC&center=true&vCenter=true&lines=Penetration+Testing;Digital+Forensics;SOC+Analyst;Full-stack+%26+Mobile+Dev)
 
 </div>
 
